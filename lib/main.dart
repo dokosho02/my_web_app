@@ -10,7 +10,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: '我的 Flutter 网站',
+      title: '我的 Flutter 网站 - MyWebApp',
       theme: ThemeData(
         primarySwatch: Colors.green,
       ),
