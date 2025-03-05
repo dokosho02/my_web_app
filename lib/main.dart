@@ -36,6 +36,11 @@ class MyHomePage extends StatelessWidget {
               '这是我用 Flutter 编写并托管的第一个网站。',
               style: TextStyle(fontSize: 20),
             ),
+            // another Text
+            Text(
+              '你是人间大爆炸 在我心里开了花',
+              style: TextStyle(fontSize: 28),
+            ),
           ],
         ),
       ),
